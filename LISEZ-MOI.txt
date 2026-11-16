@@ -1,9 +1,7 @@
-RÉEL JUST JACK — SITE COMPLET AVEC AMIS STREAMERS ET PORTRAITS MANGA
+REAL JUST JACK V15 — CORRECTION PHOTO JACK
 
-Contenu : index.html, style.css, script.js, dossier assets complet.
-DamePiouPiou : premier portrait manga (cheminée), jeux d’horreur.
-Eiwen : deuxième portrait manga (casque blanc), dessin et jeux vidéo.
+La photo remplit maintenant tout le cadre grâce à object-fit: cover.
 
-MISE À JOUR GITHUB : décompresser le ZIP, puis téléverser les fichiers et le dossier assets à la racine du dépôt dctraplan.github.io. Valider les modifications. Ne pas téléverser le ZIP lui-même.
-
-CORRECTIF : portraits redimensionnés, cartes séparées et boutons Twitch visibles. Téléverser index.html, style.css, script.js et le dossier assets entier.
+Pour GitHub Pages : téléversez tous les fichiers à la racine et conservez le dossier assets.
+IMPORTANT : ajoutez aussi portrait-fix.css.
+Puis actualisez avec Ctrl+F5.

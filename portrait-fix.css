@@ -1,0 +1,4 @@
+/* V15 — portrait Jack : remplir le cadre sans bande vide. */
+.hero.hero-v6 .hero-portrait{background:#14283e!important;overflow:hidden!important;}
+.hero.hero-v6 .hero-portrait img{display:block!important;width:100%!important;height:100%!important;min-width:100%!important;min-height:100%!important;object-fit:cover!important;object-position:center 44%!important;}
+@media(max-width:760px){.hero.hero-v6 .hero-portrait img{object-position:center 40%!important;}}
