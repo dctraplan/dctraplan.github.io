@@ -1,25 +1,9 @@
-RÉEL JUST JACK — SITE WEB GRATUIT
+MISE À JOUR — AMIS STREAMERS
 
-1. Ouvrir index.html avec un navigateur pour voir le site sur votre ordinateur.
-2. Pour le mettre en ligne gratuitement :
-   - Créer un compte GitHub si nécessaire : https://github.com
-   - Créer un dépôt public nommé reel-just-jack
-   - Importer les fichiers index.html, style.css, script.js et le dossier assets à la racine du dépôt (ne pas importer seulement le ZIP).
-   - Dans Settings > Pages, sélectionner Deploy from a branch, branche main et dossier /(root), puis enregistrer.
-   - Le site sera accessible à https://VOTRE-PSEUDO.github.io/reel-just-jack/ après publication.
+Ajout de DamePiouPiou (jeux d’horreur) et Eiwen (dessin et parfois jeux vidéo), avec liens Twitch.
 
-IMPORTANT : GitHub Pages est un hébergement public. Ne pas y mettre de données privées.
-Le lecteur Twitch apparaît automatiquement sur le site public en HTTPS. En aperçu local, un encart remplace le lecteur.
-Le lien YouTube pointe vers https://www.youtube.com/@MisterJackBond. Discord n'est pas encore renseigné.
-Le planning affiché est indicatif et peut être modifié dans index.html.
-Ce site est indépendant de WordPress et ne modifie pas votre site WordPress existant.
+Pour mettre à jour GitHub Pages : remplacer index.html et style.css à la racine du dépôt. script.js est inchangé.
 
-NOUVEAU : Les trois illustrations de jeux sont incluses dans assets/ et fonctionnent sans connexion.
+IMPORTANT : le dossier assets/ (portrait, illustrations, favicon) ne faisait pas partie des fichiers fournis ici. Conservez impérativement votre dossier assets/ actuel sur GitHub ; ne le supprimez pas.
 
-MISE À JOUR : portrait manga n°2 de Jack (sans barbe) ajouté en haut à droite.
-YouTube : https://www.youtube.com/@MisterJackBond
-Les images sont incluses dans le dossier assets. Ne le supprimez pas.
-
-MISE A JOUR : portrait manga sans texte incruste, sans etiquette « Jack en mode manga ».
-
-Mise à jour : portrait fourni par Jack, Discord https://discord.gg/JyPCrqqf5z
+Pour tester localement, placez votre dossier assets/ existant à côté de index.html.
