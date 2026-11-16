@@ -5,3 +5,5 @@ DamePiouPiou : premier portrait manga (cheminée), jeux d’horreur.
 Eiwen : deuxième portrait manga (casque blanc), dessin et jeux vidéo.
 
 MISE À JOUR GITHUB : décompresser le ZIP, puis téléverser les fichiers et le dossier assets à la racine du dépôt dctraplan.github.io. Valider les modifications. Ne pas téléverser le ZIP lui-même.
+
+CORRECTIF : portraits redimensionnés, cartes séparées et boutons Twitch visibles. Téléverser index.html, style.css, script.js et le dossier assets entier.
