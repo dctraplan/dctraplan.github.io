@@ -1,9 +1,7 @@
-MISE À JOUR — AMIS STREAMERS
+RÉEL JUST JACK — SITE COMPLET AVEC AMIS STREAMERS ET PORTRAITS MANGA
 
-Ajout de DamePiouPiou (jeux d’horreur) et Eiwen (dessin et parfois jeux vidéo), avec liens Twitch.
+Contenu : index.html, style.css, script.js, dossier assets complet.
+DamePiouPiou : premier portrait manga (cheminée), jeux d’horreur.
+Eiwen : deuxième portrait manga (casque blanc), dessin et jeux vidéo.
 
-Pour mettre à jour GitHub Pages : remplacer index.html et style.css à la racine du dépôt. script.js est inchangé.
-
-IMPORTANT : le dossier assets/ (portrait, illustrations, favicon) ne faisait pas partie des fichiers fournis ici. Conservez impérativement votre dossier assets/ actuel sur GitHub ; ne le supprimez pas.
-
-Pour tester localement, placez votre dossier assets/ existant à côté de index.html.
+MISE À JOUR GITHUB : décompresser le ZIP, puis téléverser les fichiers et le dossier assets à la racine du dépôt dctraplan.github.io. Valider les modifications. Ne pas téléverser le ZIP lui-même.
