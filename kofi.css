@@ -1,0 +1,7 @@
+/* Ko-fi — thème Bleu Nuit & Glacier */
+.hero-actions .kofi-hero {background:linear-gradient(135deg,#75bbd3,#a9ddec);color:#102b3f!important;border:1px solid rgba(210,247,255,.7);box-shadow:0 10px 30px rgba(80,175,215,.22);font-weight:800;transition:transform .2s ease,box-shadow .2s ease;}
+.hero-actions .kofi-hero:hover,.hero-actions .kofi-hero:focus-visible{transform:translateY(-3px);box-shadow:0 15px 36px rgba(80,175,215,.35);}
+.social-grid .kofi-social{border:1px solid rgba(117,187,211,.55);background:linear-gradient(125deg,rgba(117,187,211,.17),rgba(41,75,105,.27));}
+.social-grid .kofi-social:hover,.social-grid .kofi-social:focus-visible{border-color:#75bbd3;transform:translateY(-2px);}
+.social-icon.kofi-icon{background:#75bbd3;color:#102b3f;}
+@media(max-width:640px){.hero-actions .kofi-hero{width:100%;justify-content:center;text-align:center;}}

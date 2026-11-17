@@ -5,3 +5,5 @@ La photo remplit maintenant tout le cadre grâce à object-fit: cover.
 Pour GitHub Pages : téléversez tous les fichiers à la racine et conservez le dossier assets.
 IMPORTANT : ajoutez aussi portrait-fix.css.
 Puis actualisez avec Ctrl+F5.
+
+V17 : bouton Ko-fi dans l’accueil et les réseaux : https://ko-fi.com/realjustjack
