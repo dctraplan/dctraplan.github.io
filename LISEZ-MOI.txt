@@ -1,9 +1,12 @@
-REAL JUST JACK V15 — CORRECTION PHOTO JACK
+RÉEL JUST JACK — V18 GUIDES GAMING — PROJET COMPLET
 
-La photo remplit maintenant tout le cadre grâce à object-fit: cover.
+Décompresse ce ZIP et téléverse TOUS les fichiers et le dossier assets/ à la racine de ton dépôt GitHub Pages.
+Ouvre https://dctraplan.github.io/ puis clique sur Guides gaming.
 
-Pour GitHub Pages : téléversez tous les fichiers à la racine et conservez le dossier assets.
-IMPORTANT : ajoutez aussi portrait-fix.css.
-Puis actualisez avec Ctrl+F5.
+Nouveaux fichiers : guides.html, guides.css, guides.js, ghosts.json, guides-promo.css.
+Le filtre des fantômes charge ghosts.json depuis le serveur : il fonctionne sur GitHub Pages, mais pas forcément en ouvrant directement guides.html depuis l’ordinateur.
 
-V17 : bouton Ko-fi dans l’accueil et les réseaux : https://ko-fi.com/realjustjack
+Le journal des fantômes est une base indicative de 24 entités classiques ; il peut nécessiter une mise à jour selon les patches de Phasmophobia.
+Les guides WoW Midnight sont des fiches de préparation générales, sans stratégies de boss inventées.
+
+V19 : Phasmophobia « Températures glaciales » ; WoW Midnight : 9 donjons et 6 raids, boss et explications, avec sources et avertissements. Ajouter midnight.js et midnight.json au dépôt.

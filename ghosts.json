@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Esprit",
+    "evidence": [
+      "EMF 5",
+      "Spirit Box",
+      "Écriture"
+    ],
+    "tip": "Encens : délai avant une nouvelle chasse plus long."
+  },
+  {
+    "name": "Spectre",
+    "evidence": [
+      "EMF 5",
+      "Spirit Box",
+      "DOTS"
+    ],
+    "tip": "Ne marche pas dans le sel."
+  },
+  {
+    "name": "Fantôme",
+    "evidence": [
+      "Spirit Box",
+      "Ultraviolets",
+      "DOTS"
+    ],
+    "tip": "Peut disparaître sur une photo ; clignote moins visiblement en chasse."
+  },
+  {
+    "name": "Poltergeist",
+    "evidence": [
+      "Spirit Box",
+      "Ultraviolets",
+      "Écriture"
+    ],
+    "tip": "Peut lancer plusieurs objets simultanément."
+  },
+  {
+    "name": "Banshee",
+    "evidence": [
+      "Ultraviolets",
+      "Orbes",
+      "DOTS"
+    ],
+    "tip": "Peut cibler un joueur ; cri particulier au microphone parabolique."
+  },
+  {
+    "name": "Djinn",
+    "evidence": [
+      "EMF 5",
+      "Ultraviolets",
+      "Températures glaciales"
+    ],
+    "tip": "Peut accélérer quand le disjoncteur fonctionne et que la cible est éloignée."
+  },
+  {
+    "name": "Cauchemar",
+    "evidence": [
+      "Spirit Box",
+      "Orbes",
+      "Écriture"
+    ],
+    "tip": "N’allume pas les lumières ; plus dangereux dans l’obscurité."
+  },
+  {
+    "name": "Revenant",
+    "evidence": [
+      "Orbes",
+      "Écriture",
+      "Températures glaciales"
+    ],
+    "tip": "Très rapide lorsqu’il connaît la position d’un joueur, lent autrement."
+  },
+  {
+    "name": "Ombre",
+    "evidence": [
+      "EMF 5",
+      "Écriture",
+      "Températures glaciales"
+    ],
+    "tip": "Moins actif en présence de joueurs."
+  },
+  {
+    "name": "Démon",
+    "evidence": [
+      "Ultraviolets",
+      "Écriture",
+      "Températures glaciales"
+    ],
+    "tip": "Peut lancer une chasse à un niveau de santé mentale élevé."
+  },
+  {
+    "name": "Yurei",
+    "evidence": [
+      "Orbes",
+      "Températures glaciales",
+      "DOTS"
+    ],
+    "tip": "Peut fermer complètement une porte et réduire la santé mentale."
+  },
+  {
+    "name": "Oni",
+    "evidence": [
+      "EMF 5",
+      "Températures glaciales",
+      "DOTS"
+    ],
+    "tip": "Très visible pendant les chasses ; ne produit pas d’événement de souffle d’air."
+  },
+  {
+    "name": "Yokai",
+    "evidence": [
+      "Spirit Box",
+      "Orbes",
+      "DOTS"
+    ],
+    "tip": "Les voix à proximité peuvent déclencher une chasse plus tôt."
+  },
+  {
+    "name": "Hantu",
+    "evidence": [
+      "Ultraviolets",
+      "Orbes",
+      "Températures glaciales"
+    ],
+    "tip": "Sa vitesse dépend de la température des pièces."
+  },
+  {
+    "name": "Goryo",
+    "evidence": [
+      "EMF 5",
+      "Ultraviolets",
+      "DOTS"
+    ],
+    "tip": "DOTS généralement visibles à travers une caméra hors de la pièce."
+  },
+  {
+    "name": "Myling",
+    "evidence": [
+      "EMF 5",
+      "Ultraviolets",
+      "Écriture"
+    ],
+    "tip": "Ses pas sont audibles à une distance plus courte en chasse."
+  },
+  {
+    "name": "Onryo",
+    "evidence": [
+      "Spirit Box",
+      "Orbes",
+      "Températures glaciales"
+    ],
+    "tip": "Les flammes peuvent empêcher puis déclencher des chasses."
+  },
+  {
+    "name": "Les Jumeaux",
+    "evidence": [
+      "EMF 5",
+      "Spirit Box",
+      "Températures glaciales"
+    ],
+    "tip": "Interactions possibles dans deux zones ; vitesse de chasse variable."
+  },
+  {
+    "name": "Raiju",
+    "evidence": [
+      "EMF 5",
+      "Orbes",
+      "DOTS"
+    ],
+    "tip": "Accélère près d’équipements électroniques actifs."
+  },
+  {
+    "name": "Obake",
+    "evidence": [
+      "EMF 5",
+      "Ultraviolets",
+      "Orbes"
+    ],
+    "tip": "Peut laisser des empreintes UV particulières et changer brièvement de forme."
+  },
+  {
+    "name": "Le Mimic",
+    "evidence": [
+      "Spirit Box",
+      "Ultraviolets",
+      "Températures glaciales"
+    ],
+    "tip": "Imite d’autres fantômes ; produit de faux orbes en plus de ses preuves."
+  },
+  {
+    "name": "Moroi",
+    "evidence": [
+      "Spirit Box",
+      "Écriture",
+      "Températures glaciales"
+    ],
+    "tip": "Devient plus rapide lorsque la santé mentale moyenne baisse."
+  },
+  {
+    "name": "Deogen",
+    "evidence": [
+      "Spirit Box",
+      "Écriture",
+      "DOTS"
+    ],
+    "tip": "Sait où se trouvent les joueurs, mais ralentit fortement à proximité."
+  },
+  {
+    "name": "Thayé",
+    "evidence": [
+      "Orbes",
+      "Écriture",
+      "DOTS"
+    ],
+    "tip": "Rapide et actif au début, puis vieillit et ralentit avec le temps."
+  }
+]

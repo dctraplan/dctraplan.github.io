@@ -1,0 +1,327 @@
+{
+  "updated": "17 novembre 2026",
+  "dungeons": [
+    {
+      "name": "Flèche de Coursevent",
+      "zone": "Bois des Chants éternels",
+      "level": 81,
+      "bosses": [
+        {
+          "name": "Aube-de-Braise",
+          "context": "Premier obstacle : observer les attaques télégraphiées et ne pas rester dans les zones dangereuses."
+        },
+        {
+          "name": "Kalis",
+          "context": "Garder les interruptions disponibles et suivre les indications du journal de donjon."
+        },
+        {
+          "name": "Commandant Kroluk",
+          "context": "Se regrouper avant l’engagement ; surveiller les cibles prioritaires."
+        },
+        {
+          "name": "Cœur fébrile",
+          "context": "Dernière rencontre : privilégier la survie et comprendre les changements de phase."
+        }
+      ],
+      "context": "Une progression au cœur des terres de Coursevent."
+    },
+    {
+      "name": "Allée du meurtre",
+      "zone": "Lune-d’Argent",
+      "level": 83,
+      "bosses": [
+        {
+          "name": "Kystia Cœur-de-Mana",
+          "context": "Surveiller les incantations et se placer pour éviter les attaques annoncées."
+        },
+        {
+          "name": "Zaen Tristelame",
+          "context": "Observer les attaques dirigées et rester attentif aux déplacements."
+        },
+        {
+          "name": "Xathuux l’Annihilateur",
+          "context": "Préparer les soins de groupe et gérer les effets persistants selon le journal."
+        },
+        {
+          "name": "Lithiel Fureur-de-Cendre",
+          "context": "Dernier boss : identifier les fenêtres de danger avant de maximiser les dégâts."
+        }
+      ],
+      "context": "Un donjon situé dans les rues de Lune-d’Argent."
+    },
+    {
+      "name": "Cavernes de Maisara",
+      "zone": "Zul’Aman",
+      "level": 85,
+      "bosses": [
+        {
+          "name": "Muro’jin",
+          "context": "Avancer prudemment et vérifier les effets à interrompre."
+        },
+        {
+          "name": "Vordaza",
+          "context": "Identifier les zones dangereuses et préserver ses défensifs."
+        },
+        {
+          "name": "Rak’tul",
+          "context": "Dernière rencontre : adapter son positionnement aux capacités annoncées."
+        }
+      ],
+      "context": "Exploration souterraine dans la région de Zul’Aman."
+    },
+    {
+      "name": "Le val Aveuglant",
+      "zone": "Harandar",
+      "level": 88,
+      "bosses": [
+        {
+          "name": "Meittik",
+          "context": "Observer les mouvements du boss et anticiper les zones au sol."
+        },
+        {
+          "name": "Chasselumière Ikuzz",
+          "context": "Surveiller les effets ciblés et les interruptions utiles."
+        },
+        {
+          "name": "Gardelumière Ruia",
+          "context": "Coordonner les soins et les défensifs selon les dégâts subis."
+        },
+        {
+          "name": "Ziekket",
+          "context": "Garder une marge de manœuvre pour les phases de déplacement."
+        }
+      ],
+      "context": "Un parcours dans les étendues de Harandar."
+    },
+    {
+      "name": "Antre de Nalorakk",
+      "zone": "Zul’Aman",
+      "level": 88,
+      "bosses": [
+        {
+          "name": "Le Thésauriseur",
+          "context": "Éviter de se disperser et contrôler les ennemis secondaires si nécessaire."
+        },
+        {
+          "name": "Sentinelle de l’hiver",
+          "context": "Surveiller les zones et les changements de position."
+        },
+        {
+          "name": "Nalorakk",
+          "context": "Combat final : repérer les attaques lourdes et utiliser les défensifs à bon escient."
+        }
+      ],
+      "context": "Affronte les dangers de l’antre à Zul’Aman."
+    },
+    {
+      "name": "Terrasse des Magistères",
+      "zone": "Île de Quel’Danas",
+      "level": 90,
+      "bosses": [
+        {
+          "name": "Assemblage arcanique de dispersion des foules",
+          "context": "Identifier les sorts dangereux dans le journal d’aventure."
+        },
+        {
+          "name": "Séranel Cinglesoleil",
+          "context": "Se déplacer dès qu’une capacité annonce une zone à éviter."
+        },
+        {
+          "name": "Gémellus",
+          "context": "Se concentrer sur les priorités de cible annoncées par le combat."
+        },
+        {
+          "name": "Dégentrius",
+          "context": "Dernier boss : conserver des ressources pour les phases les plus exigeantes."
+        }
+      ],
+      "context": "Retour dans un lieu emblématique de Quel’Danas."
+    },
+    {
+      "name": "Point-nexus Xenas",
+      "zone": "Tempête du Vide",
+      "level": 90,
+      "bosses": [
+        {
+          "name": "Kasreth",
+          "context": "Observer les signaux visuels et éviter les attaques au sol."
+        },
+        {
+          "name": "Garde-cœur Nysarra",
+          "context": "Interrompre les incantations dangereuses lorsque le journal l’indique."
+        },
+        {
+          "name": "Lothraxion",
+          "context": "Dernier boss : coordonner les défensifs et respecter les changements de phase."
+        }
+      ],
+      "context": "Une incursion au cœur de la Tempête du Vide."
+    },
+    {
+      "name": "Arène de la Cicatrice du Vide",
+      "zone": "Tempête du Vide",
+      "level": 90,
+      "bosses": [
+        {
+          "name": "Taz’Rah",
+          "context": "Anticiper les attaques dirigées et gérer le placement du groupe."
+        },
+        {
+          "name": "Atroxus",
+          "context": "Garder ses sorts défensifs pour les pics de dégâts."
+        },
+        {
+          "name": "Charonus",
+          "context": "Dernière rencontre : privilégier les mécaniques avant le DPS."
+        }
+      ],
+      "context": "Une succession de rencontres dans une arène du Vide."
+    },
+    {
+      "name": "Autel des crochets",
+      "zone": "Île Enroulée / Caveaux d’Atal’Utek",
+      "level": 90,
+      "bosses": [
+        {
+          "name": "Rav’i",
+          "context": "Identifier les capacités prioritaires avant le pull."
+        },
+        {
+          "name": "L’Ophidien ondulant",
+          "context": "Rester mobile et respecter les avertissements du combat."
+        },
+        {
+          "name": "Zul’jan",
+          "context": "Boss final : répartir les défensifs et surveiller les changements de phase."
+        }
+      ],
+      "context": "Donjon supplémentaire associé au contenu de la saison 2."
+    }
+  ],
+  "raids": [
+    {
+      "name": "La Flèche du Vide (The Voidspire)",
+      "zone": "Tempête du Vide",
+      "season": "Saison 1",
+      "bosses": [
+        {
+          "name": "Imperator Averzian",
+          "context": "Commandant du Vide déterminé à ouvrir une brèche entre les mondes."
+        },
+        {
+          "name": "Vorasius",
+          "context": "Prédateur colossal attiré par les combats au pied de la flèche."
+        },
+        {
+          "name": "Roi déchu Salhadaar",
+          "context": "Ancien souverain prisonnier de ses propres forces, corrompu par le Vide."
+        },
+        {
+          "name": "Vaelgor et Ezzorak",
+          "context": "Deux dragons liés l’un à l’autre et transformés par le Vide."
+        },
+        {
+          "name": "Avant-garde aveuglée par la Lumière",
+          "context": "Affrontement contre Senn, Bellamy et Lightblood, devenus fanatiques."
+        },
+        {
+          "name": "Couronne du Cosmos",
+          "context": "Affrontement final au sommet de la Flèche du Vide face à la menace de Xal’atath."
+        }
+      ],
+      "context": "Raid principal à six rencontres, centré sur l’assaut des forces du Vide."
+    },
+    {
+      "name": "Faille du Rêve (The Dreamrift)",
+      "zone": "Harandar",
+      "season": "Saison 1",
+      "bosses": [
+        {
+          "name": "Chimaerus, le dieu non rêvé",
+          "context": "Une créature née des cauchemars et du déséquilibre de la Faille du Rêve."
+        }
+      ],
+      "context": "Raid à boss unique dans la Faille du Rêve."
+    },
+    {
+      "name": "Marche sur Quel’Danas",
+      "zone": "Île de Quel’Danas",
+      "season": "Saison 1",
+      "bosses": [
+        {
+          "name": "Belo’ren, enfant d’Al’ar",
+          "context": "Phénix chargé de protéger Quel’Danas, désormais affecté par le Vide."
+        },
+        {
+          "name": "Midnight Falls / La chute de Minuit",
+          "context": "Rencontre finale autour de L’ura et de la menace pesant sur le Puits de soleil."
+        }
+      ],
+      "context": "Raid final en deux rencontres autour du Puits de soleil."
+    },
+    {
+      "name": "Sporefall",
+      "zone": "Harandar",
+      "season": "Saison 1 — contenu ultérieur",
+      "bosses": [
+        {
+          "name": "Rotmire",
+          "context": "Une rencontre unique dans un environnement lié aux spores de Harandar."
+        }
+      ],
+      "context": "Raid supplémentaire à boss unique, proposé dans le contenu ultérieur de Midnight."
+    },
+    {
+      "name": "L’Abîme venimeux (The Venomous Abyss)",
+      "zone": "Île Enroulée / Atal’Utek",
+      "season": "Saison 2",
+      "bosses": [
+        {
+          "name": "Nek’zali le Lieur d’âmes",
+          "context": "Rencontre de l’Abîme venimeux ; consulter le journal pour les capacités exactes."
+        },
+        {
+          "name": "Souffle d’Ula’tek",
+          "context": "Rencontre associée à la puissance d’Ula’tek."
+        },
+        {
+          "name": "Mor’zahi",
+          "context": "Rencontre du raid à vérifier selon la difficulté."
+        },
+        {
+          "name": "Vashnik",
+          "context": "Rencontre du raid à vérifier selon la difficulté."
+        },
+        {
+          "name": "Sszorak",
+          "context": "Rencontre du raid à vérifier selon la difficulté."
+        },
+        {
+          "name": "Vexhul",
+          "context": "Rencontre du raid à vérifier selon la difficulté."
+        },
+        {
+          "name": "L’Autel enroulé",
+          "context": "Rencontre précédant l’affrontement final."
+        },
+        {
+          "name": "Ula’tek",
+          "context": "Affrontement final de l’Abîme venimeux."
+        }
+      ],
+      "context": "Huit rencontres annoncées pour ce raid de la saison 2 ; la liste et les noms localisés peuvent évoluer."
+    },
+    {
+      "name": "La Libération de Kith’ix (The Unbinding of Kith’ix)",
+      "zone": "Île Enroulée / Atal’Utek",
+      "season": "Saison 2",
+      "bosses": [
+        {
+          "name": "Kith’ix",
+          "context": "Rencontre unique associée à la campagne aqir ; détails de combat à confirmer."
+        }
+      ],
+      "context": "Raid à rencontre unique mentionné dans les guides de saison 2."
+    }
+  ]
+}
