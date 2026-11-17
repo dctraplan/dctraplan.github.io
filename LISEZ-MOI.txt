@@ -1,12 +1,5 @@
-RÉEL JUST JACK — V18 GUIDES GAMING — PROJET COMPLET
+V27 — LISIBILITÉ UNIFORME
 
-Décompresse ce ZIP et téléverse TOUS les fichiers et le dossier assets/ à la racine de ton dépôt GitHub Pages.
-Ouvre https://dctraplan.github.io/ puis clique sur Guides gaming.
+Correction explicite des liens du menu Accueil / Univers et autres rubriques : même taille et graisse. Titres, paragraphes, boutons, étiquettes et textes secondaires harmonisés sur accueil et guides. Effets V25 et contenu conservés.
 
-Nouveaux fichiers : guides.html, guides.css, guides.js, ghosts.json, guides-promo.css.
-Le filtre des fantômes charge ghosts.json depuis le serveur : il fonctionne sur GitHub Pages, mais pas forcément en ouvrant directement guides.html depuis l’ordinateur.
-
-Le journal des fantômes est une base indicative de 24 entités classiques ; il peut nécessiter une mise à jour selon les patches de Phasmophobia.
-Les guides WoW Midnight sont des fiches de préparation générales, sans stratégies de boss inventées.
-
-V19 : Phasmophobia « Températures glaciales » ; WoW Midnight : 9 donjons et 6 raids, boss et explications, avec sources et avertissements. Ajouter midnight.js et midnight.json au dépôt.
+Décompresser et téléverser tous les fichiers, y compris assets/, sur GitHub Pages. Le fichier lisibilite-v27.css doit être présent. Ctrl+F5 après déploiement.
