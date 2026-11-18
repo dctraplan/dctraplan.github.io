@@ -1,0 +1,10 @@
+REAL JUST JACK 2027 — MONDES INTERACTIFS
+
+1. Décompressez le ZIP.
+2. Déposez tous les fichiers et le dossier assets à la racine du dépôt GitHub Pages.
+3. Remplacez les fichiers existants.
+4. Attendez la publication puis rechargez avec Ctrl+F5.
+
+Nouveautés : enquête immersive Phasmophobia à 3 pièces et carte fantasy interactive avec progression locale.
+Les destinations fantasy sont fictives, non officielles. Les indices de la mini-enquête sont scénarisés et distincts du laboratoire Phasmophobia existant.
+Mode sombre permanent. Aucun serveur ni clé API nécessaires.

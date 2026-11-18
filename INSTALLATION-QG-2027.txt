@@ -1,0 +1,10 @@
+RÉEL JUST JACK — QG 2027
+
+1. Décompresser le ZIP.
+2. Copier tous les fichiers et le dossier assets à la racine de votre dépôt GitHub Pages.
+3. Remplacer les fichiers existants.
+4. Vérifier le site avec Ctrl+F5.
+
+Le QG enregistre les XP, missions et succès uniquement dans le navigateur via localStorage. Aucun compte, aucun serveur, aucun classement global.
+Images WoW et Star Citizen : illustrations d’ambiance non officielles.
+Mode sombre conservé.

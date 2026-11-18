@@ -1,0 +1,33 @@
+REAL JUST JACK — SITE COMPLET 2027
+=================================
+
+CONTENU
+- index.html : site complet et page d'accueil
+- style.css : design et responsive
+- data.js : données des mini-jeux et guides
+- script.js, experience.js, upgrade.js : interactions
+- assets/ : images et icône
+- 404.html : page d'erreur
+- robots.txt, .nojekyll : configuration GitHub Pages
+
+INSTALLATION GITHUB PAGES
+1. Décompressez l'archive.
+2. Ouvrez votre dépôt GitHub Pages dctraplan.github.io.
+3. Ajoutez TOUS les fichiers et le dossier assets à la racine du dépôt (pas dans un sous-dossier).
+4. Validez les changements avec Commit changes.
+5. Attendez le déploiement GitHub Pages puis rechargez le site avec Ctrl+F5.
+
+TEST LOCAL
+Ouvrez index.html dans votre navigateur. Certaines intégrations externes (Twitch) peuvent nécessiter un hébergement HTTPS et un domaine autorisé.
+
+ATTENTION
+- Le lecteur Twitch dépend des règles d'intégration Twitch et du nom de domaine utilisé.
+- Le planning est indicatif, à adapter avant publication.
+- La galerie de clips pointe vers les chaînes : elle n'est pas une synchronisation automatique des derniers clips.
+- Le site n'utilise pas de base de données. Les favoris et la progression sont enregistrés localement dans le navigateur.
+- Vérifiez les liens des talents et les contenus WoW avant mise en ligne.
+
+
+EDITION IMMERSIVE 2027: interface agrandie, effet 3D au pointeur, lueur contextuelle, et option de reduction des animations. Les effets 3D se desactivent sur ecrans tactiles et en mode mouvement reduit.
+
+ÉDITION UNIVERS 2027 : mode sombre permanent, portails 3D dans Explorer.

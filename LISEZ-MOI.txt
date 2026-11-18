@@ -1,5 +1,24 @@
-V27 — LISIBILITÉ UNIFORME
+SITE RÉEL JUST JACK : VERSION COMPLÈTE
 
-Correction explicite des liens du menu Accueil / Univers et autres rubriques : même taille et graisse. Titres, paragraphes, boutons, étiquettes et textes secondaires harmonisés sur accueil et guides. Effets V25 et contenu conservés.
+Rien à modifier dans les fichiers. Tout est prêt à être envoyé tel quel.
 
-Décompresser et téléverser tous les fichiers, y compris assets/, sur GitHub Pages. Le fichier lisibilite-v27.css doit être présent. Ctrl+F5 après déploiement.
+FICHIERS
+- index.html : la page du site
+- style.css : le design
+- script.js : les interactions
+- data.js : les 30 fantômes et le catalogue WoW Midnight
+- guides.html : redirige les anciens liens vers le labo Phasmophobia
+- 404.html : page affichée si un lien est cassé
+- robots.txt, .nojekyll : réglages pour GitHub Pages
+- assets/ : images (Jack, Phasmophobia, WoW, Battlefield 6, DamePiouPiou, Eiwen) et icône
+
+MISE EN LIGNE (GitHub Pages)
+1. Décompresse le zip.
+2. Sur GitHub, ouvre le dépôt dctraplan.github.io, puis Add file > Upload files.
+3. Glisse TOUT le contenu du dossier décompressé (fichiers, dossier assets/ et .nojekyll), puis Commit changes.
+   Les fichiers de même nom (index.html, style.css, script.js, guides.html, assets/favicon.svg) sont remplacés automatiquement.
+4. Attends 1 à 2 minutes, puis recharge le site avec Ctrl+F5.
+
+Les anciens fichiers qui ne servent plus (effects.css, effects.js, bleu-glacier.css, ghosts.json, midnight.json, etc.) ne gênent pas. Tu peux les supprimer plus tard si tu veux faire le ménage.
+
+Les lecteurs Twitch fonctionnent sur dctraplan.github.io. Si tu changes de nom de domaine, ils s’adaptent seuls.

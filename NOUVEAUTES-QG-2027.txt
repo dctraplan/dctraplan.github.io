@@ -1,0 +1,9 @@
+REAL JUST JACK — QG 2027 : EXPEDITIONS
+
+Nouveautés : quatre mini-défis interactifs, passeport d'explorateur, défi quotidien tournant et sauvegarde locale.
+Accueil inchangé : présentation, Twitch, talents.
+Mode sombre permanent. Aucune inscription ni service externe requis pour les nouveautés.
+
+INSTALLATION : extraire tous les fichiers à la racine de votre dépôt GitHub Pages, remplacer les anciens, attendre la publication puis actualiser avec Ctrl+F5.
+
+NOTE : les missions et passeports sont des activités ludiques locales, sans classement partagé ni serveur. Le défi quotidien dépend de la date de l'appareil. Les réponses sont rejouables. Les autres contenus et liens sont ceux du site précédent.
