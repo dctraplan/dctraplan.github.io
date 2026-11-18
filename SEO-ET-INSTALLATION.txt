@@ -1,0 +1,11 @@
+REAL JUST JACK — VERSION SEO + INTERACTIONS
+
+1. Décompresser cette archive à la racine du dépôt GitHub Pages (remplacer les fichiers existants).
+2. Vérifier les pages index.html, guides.html et les 4 pages de jeux après publication.
+3. Dans Google Search Console, ajouter et valider la propriété https://dctraplan.github.io/ puis soumettre https://dctraplan.github.io/sitemap.xml.
+4. Contrôler Indexation > Pages et Inspecter une URL pour chaque guide.
+5. Tester les pages sur https://pagespeed.web.dev/ en mobile et desktop (Core Web Vitals : LCP, INP, CLS).
+6. Si le domaine realjustjack.fr est activé, mettre à jour toutes les URL canoniques, Open Graph, JSON-LD, sitemap et robots.txt AVANT publication.
+7. Les quiz et checklists fonctionnent dans le navigateur, sans compte ni serveur.
+
+IMPORTANT : aucun score PageSpeed, aucune indexation Google ni position SEO ne peut être garanti sans test en ligne.

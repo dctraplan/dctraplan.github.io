@@ -1,0 +1,5 @@
+REAL JUST JACK — AVENTURES INTERACTIVES
+4 histoires à embranchements, découvertes, équipement, sauvegarde locale, bouton retour et recommencer.
+Publier tous les fichiers et dossiers du ZIP à la racine du dépôt GitHub Pages.
+Aucun serveur ou service tiers requis.
+Les aventures sont des fictions originales, non des guides officiels des jeux.
