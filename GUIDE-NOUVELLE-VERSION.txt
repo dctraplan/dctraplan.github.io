@@ -1,0 +1,19 @@
+REAL JUST JACK - VERSION INTERACTIVE + SEO (18/11/2026)
+
+NOUVEAUTÉS
+- 4 missions interactives (3 questions chacune) accessibles au clic depuis l’accueil.
+- XP, niveaux et progression enregistrés dans le navigateur via localStorage.
+- Bouton défi surprise, feedback immédiat, animations CSS et navigation clavier.
+- Métadonnées enrichies et sitemap à jour pour le domaine GitHub Pages actuel.
+
+PUBLICATION
+1. Décompressez le ZIP.
+2. Remplacez les fichiers à la racine du dépôt dctraplan.github.io (conservez les dossiers).
+3. Attendez le déploiement dans GitHub Actions/Pages.
+4. Testez les quatre missions, le mobile et les liens.
+5. Dans Google Search Console, validez la propriété puis envoyez sitemap.xml.
+
+IMPORTANT
+- Les URL canoniques ciblent https://dctraplan.github.io/ tant que realjustjack.fr n’est pas connecté. Si vous utilisez ce domaine, il faut remplacer les URL canoniques, Open Graph, sitemap et robots.txt par le nouveau domaine.
+- L’indexation et les classements ne sont pas garantis. La qualité du contenu, les liens et la performance sont à mesurer sur le site publié.
+- L’intégration avec les anciens modules a été préservée, mais un test navigateur après publication reste nécessaire.

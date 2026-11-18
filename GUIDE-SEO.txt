@@ -1,0 +1,10 @@
+REAL JUST JACK — VERSION SEO + DÉFIS
+
+1. Envoyer le CONTENU de ce dossier à la racine du dépôt dctraplan.github.io (ne pas déposer uniquement le ZIP).
+2. Vérifier que https://dctraplan.github.io/sitemap.xml est accessible.
+3. Dans Google Search Console, ajouter la propriété https://dctraplan.github.io/ et suivre la validation proposée.
+4. Soumettre https://dctraplan.github.io/sitemap.xml.
+5. Si realjustjack.fr est acheté et connecté, remplacer toutes les URL https://dctraplan.github.io/ dans les fichiers HTML, sitemap.xml et robots.txt par https://realjustjack.fr/ avant publication. Configurer la redirection canonique.
+6. Ajouter régulièrement des contenus originaux : clips commentés, guides, dates de live vérifiées.
+
+SEO : aucune première position Google garantie. Le quiz enregistre les succès uniquement dans le navigateur. Le site existant et ses scripts sont conservés.
