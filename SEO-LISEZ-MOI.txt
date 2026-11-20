@@ -1,0 +1,13 @@
+SEO — REAL JUST JACK
+
+Domaine canonique actuel : https://dctraplan.github.io/
+Si vous passez à reeljustjack.fr, remplacez toutes les URLs dctraplan.github.io dans les pages HTML, robots.txt et sitemap.xml avant publication et ajoutez le fichier CNAME correspondant.
+
+Après publication :
+1. Vérifier https://dctraplan.github.io/robots.txt et https://dctraplan.github.io/sitemap.xml
+2. Ajouter la propriété à Google Search Console et soumettre sitemap.xml
+3. Ajouter le site à Bing Webmaster Tools.
+4. Vérifier le rendu des aperçus sociaux et les Core Web Vitals.
+5. Vérifier les URLs de profils et les accès Discord.
+
+Le SEO n’assure pas la première position, ni l’indexation immédiate.
