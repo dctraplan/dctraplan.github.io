@@ -10,7 +10,7 @@ FICHIERS
 - guides.html : redirige les anciens liens vers le labo Phasmophobia
 - 404.html : page affichée si un lien est cassé
 - robots.txt, .nojekyll : réglages pour GitHub Pages
-- assets/ : images (Jack, Phasmophobia, WoW, Battlefield 6, DamePiouPiou, Eiwen) et icône
+- assets/ : images (Jack, Phasmophobia, WoW, Partenariats Gaming, DamePiouPiou, Eiwen) et icône
 
 MISE EN LIGNE (GitHub Pages)
 1. Décompresse le zip.

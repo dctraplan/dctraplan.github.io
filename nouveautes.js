@@ -1,7 +1,7 @@
 'use strict';
 (()=>{
  const buttons=document.querySelectorAll('.rjj-filter');buttons.forEach(btn=>btn.addEventListener('click',()=>{buttons.forEach(b=>{b.classList.toggle('active',b===btn);b.setAttribute('aria-pressed',String(b===btn))});document.querySelectorAll('.rjj-media').forEach(card=>{card.hidden=btn.dataset.filter!=='all'&&card.dataset.category!==btn.dataset.filter})}));
- const games={1:'Phasmophobia',2:'WoW Retail',3:'Battlefield 6',4:'WoW Retail',5:'Phasmophobia'};
+ const games={1:'Phasmophobia',2:'WoW Retail',3:'Partenariats Gaming',4:'WoW Retail',5:'Phasmophobia'};
  const title=document.getElementById('rjj-next-title'),date=document.getElementById('rjj-next-date'),timer=document.getElementById('rjj-timer');
  if(!title||!timer)return;
  const parisParts=d=>{const parts=new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'}).formatToParts(d);return Object.fromEntries(parts.map(x=>[x.type,Number(x.value)]))};
