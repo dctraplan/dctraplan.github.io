@@ -1,0 +1,14 @@
+REAL JUST JACK — LANCEMENT OFFICIEL SAMEDI 5 DÉCEMBRE 2026
+Domaine cible : https://reeljustjack.fr/
+
+1. Acheter et activer le domaine reeljustjack.fr et l’hébergement OVH.
+2. Attendre que le domaine soit relié à l’hébergement et que le HTTPS soit actif.
+3. Envoyer TOUS les fichiers de cette archive à la racine web OVH (souvent www/), sans dossier parent.
+4. Vérifier la page d’accueil, les pages jeux, les images, le lecteur Twitch et les liens Discord.
+5. Vérifier la section Noël : calendrier accessible du 5 au 25 décembre 2026 (selon l’horloge de l’appareil du visiteur).
+6. Vérifier https://reeljustjack.fr/sitemap.xml et soumettre l’URL à Google Search Console.
+7. Garder GitHub Pages accessible pendant la migration et prévoir une redirection de l’ancien site pour éviter les doublons.
+8. IMPORTANT : le workflow GitHub Actions de synchronisation YouTube ne s’exécute pas sur OVH. Prévoir une autre automatisation ou des mises à jour manuelles.
+9. Les mentions « EN LIVE » ne constituent pas une vérification temps réel de disponibilité Twitch.
+
+La création du ZIP ne publie pas le site et n’active ni le domaine ni les DNS.
